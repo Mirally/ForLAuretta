@@ -1,0 +1,3 @@
+skilset
+ui/ux
+version control
